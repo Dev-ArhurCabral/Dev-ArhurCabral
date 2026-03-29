@@ -28,7 +28,7 @@ Também estou constantemente aprendendo e compartilhando conhecimento sobre **de
     <img src="https://img.shields.io/badge/Email-ARTHURCABRAL@HOTMAIL.COM.BR-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
-  <a href="www.linkedin.com/in/arthur-cabral-8bb93a338">
+  <a href="https://www.linkedin.com/in/arthur-cabral-souza/">
     <img src="https://img.shields.io/badge/LinkedIn-ARTHUR CABRAL-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
