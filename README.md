@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?color=0A66C2&size=24&width=800&lines=Bem-vindo+ao+meu+perfil)](https://git.io/typing-svg)
+
 # Olá 👋, sou Arthu Cabral
 
 🚀 **Estudante de tecnologia | Entusiasta de desenvolvimento backend**  
@@ -12,15 +14,25 @@ Também estou constantemente aprendendo e compartilhando conhecimento sobre **de
 
 ## 🌐 Onde me encontrar
 
-<p align="left">
+<div>
   <a href="https://github.com/Dev-ArhurCabral">
     <img src="https://img.shields.io/badge/GitHub-ARTHUR CABRAL-181717?style=for-the-badge&logo=github" />
   </a>
   
-  <a href="">
+  <a href="https://instagram.com/cabralsouza.arthur">
     <img src="https://img.shields.io/badge/Instagram-@CABRALSOUZA.ARTHUR-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+</div>
+<div>
+  <a href="mailto:seuemail@example.com">
+    <img src="https://img.shields.io/badge/Email-ARTHURCABRAL@HOTMAIL.COM.BR-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="www.linkedin.com/in/arthur-cabral-8bb93a338">
+    <img src="https://img.shields.io/badge/LinkedIn-ARTHUR CABRAL-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
+</div>
 
 ---
 
@@ -48,7 +60,7 @@ Também estou constantemente aprendendo e compartilhando conhecimento sobre **de
 ### Backend
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
@@ -56,12 +68,12 @@ Também estou constantemente aprendendo e compartilhando conhecimento sobre **de
 
 #### Banco de Dados
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 #### 🛠️ Ferramentas
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
