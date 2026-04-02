@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?color=0A66C2&size=24&width=800&lines=Bem-vindo+ao+meu+perfil)](https://git.io/typing-svg)
 
-# Olá 👋, sou Arthu Cabral
+# Olá 👋, sou Arthur Cabral
 
 🚀 **Estudante de tecnologia | Entusiasta de desenvolvimento backend**  
 
