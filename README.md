@@ -79,7 +79,7 @@ Também estou constantemente aprendendo e compartilhando conhecimento sobre **de
 
 ## 🚀 Filosofia
 
-> _"Aprender, construir e evoluir — todos os dias."_
+> _"Se você só fizer o que sabe, nunca será nada além do que já é."_
 
 ---
 
